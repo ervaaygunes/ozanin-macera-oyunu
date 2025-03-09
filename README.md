@@ -13,7 +13,7 @@ Oyunda, ozanı **kamp alanında dinlendirebilir**, **şifahanede iyileştirebili
 - **💡 Dinamik Değerler:** Ozanın moral, stres, enerji ve tokluk seviyeleri değişiyor.
 
   
--Oynanış Mekanikleri
+Oynanış Mekanikleri
 Oyunun akışı tamamen seçimlere dayalıdır. Ana menüde aşağıdaki seçeneklerden birini seçebilirsin:
 
 1️⃣ Kamp Alanına Git: Moral ve enerji kazan.
